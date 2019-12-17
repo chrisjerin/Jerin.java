@@ -4,7 +4,7 @@ public class LeapYear {
     public static void main(String[] args) {
         int x;
         Scanner y=new Scanner(System.in);
-        System.out.print("Enter year:");
+        System.out.print("Enter year:8");
         x=y.nextInt();
         if(x%4==0)
         {
